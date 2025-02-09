@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Faisal</h1>
-<h3 align="center">A hardworking and passionate undergrad student at [NUCES-FAST](https://www.nu.edu.pk/)</h3>
+<h3 align="center">A hardworking and passionate undergrad student at ![NUCES-FAST](https://www.nu.edu.pk/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim3702&label=Profile%20views&color=2e80b2&style=plastic" alt="ibrahim3702" /> </p>
 
