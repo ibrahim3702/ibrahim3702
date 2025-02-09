@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Faisal</h1>
-<h3 align="center">A hardworking and passionate undergrad student at ![NUCES-FAST](https://www.nu.edu.pk/)</h3>
+<h3 align="center">A hardworking and passionate undergrad student at [NUCES-FAST](https://www.nu.edu.pk/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim3702&label=Profile%20views&color=2e80b2&style=plastic" alt="ibrahim3702" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim3702" alt="ibrahim3702" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React Native.**
 
@@ -17,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-faisal-714812348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-faisal-714812348/" height="30" width="40" /></a>
 <a href="https://instagram.com/xhkibbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xhkibbi" height="30" width="40" /></a>
-<a href="https://medium.com/ibrahimfaisal3702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ibrahimfaisal3702" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim3702&show_icons=true&locale=en&layout=compact" alt="ibrahim3702" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim3702&show_icons=true&theme=dark&hide_border=true&locale=en" alt="ibrahim3702" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim3702&" alt="ibrahim3702" /></p>
