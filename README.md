@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **React Native.**
 
-- 👨‍💻 My Portfolio: [https://ibrahim3702.github.io/Portfolio/](https://ibrahim3702.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@ibrahimfaisal3702](https://medium.com/@ibrahimfaisal3702)
 
